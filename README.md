@@ -68,3 +68,31 @@ cd track-ip
 
 # Install dependensi
 pip install -r requirements.txt
+
+Run
+python ip.py
+
+⚙️ KONFIGURASI
+
+Tidak diperlukan konfigurasi tambahan. Tools langsung berfungsi setelah instalasi dependensi. Tools menggunakan API publik dari ip-api.com sehingga tidak memerlukan API key.
+🧠 BAGAIMANA CARA KERJA
+
+    Tool menerima input IP dari pengguna (interaktif atau via argumen)
+
+    Mengirim request ke ip-api.com dengan field yang dibutuhkan
+
+    Memproses response JSON
+
+    Menampilkan informasi geolokasi lengkap dengan format terminal yang rapi
+
+    Membuat tautan Google Maps berdasarkan koordinat yang didapat
+
+⚠️ DISCLAIMER
+
+Tools ini dibuat hanya untuk tujuan edukasi dan keamanan jaringan. Penggunaan untuk aktivitas ilegal di luar tanggung jawab pengembang.
+👤 AUTHOR
+<p align="center"> <b>null7</b> </p><p align="center"> <a href="https://github.com/thisnull7"> <img src="https://img.shields.io/badge/GitHub-thisnull7-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p><p align="center"> <a href="https://github.com/thisnull7/track-ip"> <img src="https://img.shields.io/badge/Repository-track--ip-FF0000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+⭐ DUKUNGAN
+
+Jika tools ini berguna, berikan ⭐ Star pada repositori ini. Dukungan Anda sangat berarti.
+<p align="center"> <img src="https://raw.githubusercontent.com/thisnull7/track-ip/main/.github/assets/skull.png" width="100" /> </p><p align="center"> <i>Leave nothing but fear.</i> </p> ```
