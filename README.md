@@ -73,12 +73,3 @@ Run
 python ip.py
 
 
-
-👤 AUTHOR
-<p align="center"> <b>null7</b> </p><p align="center"> <a href="https://github.com/thisnull7"> <img src="https://img.shields.io/badge/GitHub-thisnull7-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p><p align="center"> <a href="https://github.com/thisnull7/track-ip"> <img src="https://img.shields.io/badge/Repository-track--ip-FF0000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-⭐ DUKUNGAN
-
-Jika tools ini berguna, berikan ⭐ Star pada repositori ini. Dukungan Anda sangat berarti.
-<p align="center"> <img src="https://raw.githubusercontent.com/thisnull7/track-ip/main/.github/assets/skull.png" width="100" /> </p><p align="center"> <i>Leave nothing but fear.</i> </p> ```
-
-
