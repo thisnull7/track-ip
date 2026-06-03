@@ -70,9 +70,9 @@ cd track-ip
 pip install -r requirements.txt
 
 Run
-python ip.py
+python ip.py ```
 
-⚙️ KONFIGURASI
+⚙️ KONFIGURASI 
 
 Tidak diperlukan konfigurasi tambahan. Tools langsung berfungsi setelah instalasi dependensi. Tools menggunakan API publik dari ip-api.com sehingga tidak memerlukan API key.
 🧠 BAGAIMANA CARA KERJA
